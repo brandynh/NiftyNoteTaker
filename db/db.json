@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "title": "Here is a note",
+        "text": "This is the note Im writing and saving",
+        "note_id": "99aa"
+    },
+    {
+        "title": "HEre is another one",
+        "text": "Just for fun\n",
+        "note_id": "404a"
+    }
+]
